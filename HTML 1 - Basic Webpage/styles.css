@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+
+h1 {
+  background-color: powderblue;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 48px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+#middle {
+  display: flex; justify-content: center; align-items: center;
+}
+
+#tmiddle {
+  text-align: center;
+}

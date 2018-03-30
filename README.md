@@ -2,9 +2,9 @@
 
 ## Status of our Code!
 
-|         **Details**          |     **Status**     |
-|------------------------------|--------------------|
-|Level of Completion (Out of 5)| :heavy_check_mark: |
+|         **Details**          |              **Status**              |
+|------------------------------|--------------------------------------|
+|Level of Completion (Out of 5)| :heavy_check_mark: :heavy_check_mark:|
 
 ## Details!
 We have included **some** of the crucial parts of HTML.
@@ -20,8 +20,7 @@ The main part for the <head> tag.
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <title>Epic Doodle Company</title>
 ```
-
-And more code at the <body> tag.
+### The Body!
 
 - h1 Tag
 ```
@@ -51,7 +50,7 @@ And more code at the <body> tag.
   <li>Laptop Sticker Doodle</li>
 </ul>
 ```
-iframe for YouTube Videos
+- iframe for YouTube Videos
 ```
 <iframe src="https://www.youtube.com/watch?v=e4N882MPTPQ" width="960"
  height="540">

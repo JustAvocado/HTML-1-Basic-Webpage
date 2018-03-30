@@ -59,6 +59,6 @@ iframe for YouTube Videos
 ```
 ## Top Contributors!
 - RealRando42 - *The Repository Creator*
-  +[Profile Page for RealRando42](https://github.com/RealRando42)
+  + [Profile Page for RealRando42](https://github.com/RealRando42)
 - Jason Croos - *A fellow coder*
-  +[Profile Page for Jason Croos](https://github.com/Jasonthecoder)
+  + [Profile Page for Jason Croos](https://github.com/Jasonthecoder)

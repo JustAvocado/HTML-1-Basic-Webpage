@@ -1,14 +1,18 @@
+html {
+  background: linear-gradient(to right, #159957, #155799);
+}
+
 body {
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 p {
   font-family: 'Roboto', sans-serif;
-  text-align: left;
 }
 
 h1 {
-  background-color: powderblue;
+  background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
   font-family: 'Roboto', sans-serif;
   text-align: center;
   font-size: 48px;

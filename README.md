@@ -61,3 +61,5 @@ The main part for the <head> tag.
   + [Profile Page for RealRando42](https://github.com/RealRando42)
 - Jason Croos - *A fellow coder*
   + [Profile Page for Jason Croos](https://github.com/Jasonthecoder)
+- A Big Thanks to Pic Candle for the Video!
+  + [Pic Candle's Video](https://www.youtube.com/watch?v=e4N882MPTPQ)
